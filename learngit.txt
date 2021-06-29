@@ -5,3 +5,4 @@ Git tracks changes of files.
 new change.
 本地模拟冲突1111111.
 github模拟解决冲突222222.
+add txt in github.
