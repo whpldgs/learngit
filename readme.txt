@@ -5,3 +5,4 @@ Git track changes of files.
 Git is a usefull software.
 Git use command line.
 Git switch to a new branch is quick and simple. 
+Git add merge.
