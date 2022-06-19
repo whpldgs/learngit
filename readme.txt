@@ -7,3 +7,4 @@ Git use command line.
 Git switch to a new branch is quick and simple. 
 Git add merge.
 Git use a bug branch.
+Git stash can store.
